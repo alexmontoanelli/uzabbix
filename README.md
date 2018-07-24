@@ -1,0 +1,2 @@
+# uzabbix
+Another Zabbix Interface
